@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-This is Leo's blog
+title: Welcome to Leo's blog
 ---
 
